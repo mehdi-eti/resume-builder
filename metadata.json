@@ -1,0 +1,5 @@
+{
+  "name": "AI Resume Architect",
+  "description": "An advanced, client-side resume and cover letter builder featuring multi-language support via AI, a live editor with multiple templates, and secure in-browser storage. Create, manage, and translate professional documents with ease.",
+  "requestFramePermissions": []
+}
